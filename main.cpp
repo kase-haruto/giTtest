@@ -2,6 +2,8 @@
 
 const char kWindowTitle[] = "LC1B_09_カセ_ハルト_";
 
+const int kWindowWidth = 1280;
+
 // Windowsアプリでのエントリーポイント(main関数)
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
